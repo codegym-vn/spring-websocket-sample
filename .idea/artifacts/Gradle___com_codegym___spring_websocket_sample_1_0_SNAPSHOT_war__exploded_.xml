@@ -1,0 +1,43 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : com.codegym : spring-websocket-sample-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/build/libs/exploded/spring-websocket-sample-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$">
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQoNCg==</manifest>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/libs/exploded/spring-websocket-sample-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="spring-websocket-sample_main/web/Web Gradle : spring-websocket-sample-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="spring-websocket-sample_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:4.3.17.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.thymeleaf:thymeleaf-spring4:3.0.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.thymeleaf:thymeleaf:3.0.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.25" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-websocket:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-messaging:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-context:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-aop:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-web:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-core:5.0.6.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.attoparser:attoparser:2.0.3.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.unbescape:unbescape:1.1.4.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-jcl:5.0.6.RELEASE" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.5/3490508379d065fe3fcb80042b62f630f7588606/jackson-databind-2.9.5.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.9.5/a22ac51016944b06fd9ffbc9541c6e7ce5eea117/jackson-core-2.9.5.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.9.0/7c10d545325e3a6e72e06381afe469fd40eb701/jackson-annotations-2.9.0.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
